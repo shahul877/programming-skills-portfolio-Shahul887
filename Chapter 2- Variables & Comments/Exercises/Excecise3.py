@@ -1,0 +1,10 @@
+name="\tshahul hammed\n" 
+print("unmodified::") 
+print(name) 
+print("\nusing 1strip():") 
+print(name.strip()) 
+print("\nusing rstrip():") 
+print(name.rstrip()) 
+print("\nusing strip():") 
+print(name.strip()) 
+print("\nusing strip():")
